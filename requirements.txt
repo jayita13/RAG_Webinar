@@ -1,0 +1,16 @@
+docling 
+sentence-transformers 
+torch
+dspy-ai 
+faiss-cpu 
+ragatouille
+openai
+langfuse
+openinference-instrumentation-dspy
+ragas 
+datasets
+rouge-score
+python-dotenv
+unstructured
+hf_xet
+groq
